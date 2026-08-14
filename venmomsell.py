@@ -26,7 +26,7 @@ OWNER_ID = 7952327997
 # ========== ADMIN IDs - YAHAN APNE ADMINS DAALO ==========
 # Is list me jitne chahe utne admin IDs daal sakte ho
 # Format: [123456789, 987654321, 111111111]
-ADMIN_IDS = [7952327997 ]
+ADMIN_IDS = [7952327997, 7953147643]
 
 # ========== PREMIUM CUSTOM EMOJI IDs ==========
 PREMIUM_EMOJIS = {
